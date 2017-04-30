@@ -1,0 +1,35 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion rootProject.ext.compileSdkVersion
+    buildToolsVersion rootProject.ext.buildToolsVersion
+
+    defaultConfig {
+        minSdkVersion 19
+        targetSdkVersion rootProject.ext.targetSdkVersion
+
+        versionCode 1
+        versionName "1.0"
+    }
+
+    signingConfigs {
+        release {
+            storeFile System.getenv("KEYSTORE") != null ? file(System.getenv("KEYSTORE")) : null
+            storePassword System.getenv("KEYSTORE_PASSWORD")
+            keyAlias System.getenv("LOCAL_STORAGE_ALIAS")
+            keyPassword System.getenv("LOCAL_STORAGE_PASSWORD")
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            shrinkResources true
+            signingConfig signingConfigs.release
+        }
+    }
+}
+
+dependencies {
+    compile "com.android.support:appcompat-v7:25.0.0"
+}

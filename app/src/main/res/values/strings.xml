@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="stickers_app_name">Destiny Stickers</string>
+    <string name="stickers_destiny">Destiny</string>
+
+    <string name="stickers_amanda_kiss">Hey Guardian</string>
+    <string name="stickers_babycrota">Croat &amp; Orxk</string>
+    <string name="stickers_banshee">I \'member?</string>
+    <string name="stickers_cayde_sneaky">Take me with you</string>
+    <string name="stickers_cayde_thumbsup">I got this!</string>
+    <string name="stickers_eris">Creepy Sidekick</string>
+    <string name="stickers_fenchurch">Tiger! Tiger!</string>
+    <string name="stickers_ghost">Little Light</string>
+    <string name="stickers_guardian_down">Guardian Down</string>
+    <string name="stickers_guardian_taunt">1v1 Me Bro!</string>
+    <string name="stickers_ikora_book">Need something?</string>
+    <string name="stickers_ikora_taunt">Do I scare you?</string>
+    <string name="stickers_petra">For the Reef</string>
+    <string name="stickers_rahool">Hope I helped</string>
+    <string name="stickers_saladin_no_no">No, Young Wolf</string>
+    <string name="stickers_shaxx_amazing">THIS IS...</string>
+    <string name="stickers_shaxx_laugh">FIGHT FOREVER</string>
+    <string name="stickers_sparrow">Fancy Ridin\'</string>
+    <string name="stickers_treasure">The 6th Chest</string>
+    <string name="stickers_uldren_nooo">DO NOT WANT!!!</string>
+    <string name="stickers_uldren_taunt">Good luck</string>
+    <string name="stickers_variks_greetings">SYLOK, THE DEFILED</string>
+    <string name="stickers_xursday">Ex-xur-lent!</string>
+    <string name="stickers_zavala_facepalm">Thx for your input</string>
+    <string name="stickers_zavala_scarf">Merino Mark</string>
+
+
+</resources>
