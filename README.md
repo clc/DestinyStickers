@@ -12,6 +12,7 @@ After you install this app, you can get Destiny stickers in other apps by follow
 ![Messages](screenshots/01_messages.png?raw=true)
 ![Hangouts](screenshots/01_hangouts.png?raw=true)
 ![PS Messages](screenshots/01_psmessages.png?raw=true)
+![Allo](screenshots/01_allo.png?raw=true)
 
 
 
